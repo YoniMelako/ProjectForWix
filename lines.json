@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5cebeac22fbe195d6c2565dd"},"registerDate":{"$date":{"$numberLong":"1558964869428"}},"name":"silver","call_minutes":"1000","internet_giga":"50G","overseas_calls":"200","price":{"$numberInt":"60"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5cebebc8d6427f7130a5e491"},"isActive":true,"registerDate":{"$date":{"$numberLong":"1558965167711"}},"name":"gold","call_minutes":"2000","internet_giga":"80G","overseas_calls":"500","price":{"$numberInt":"100"},"__v":{"$numberInt":"0"}}
